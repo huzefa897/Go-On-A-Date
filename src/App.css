@@ -1,0 +1,22 @@
+
+/* write your css here */
+body {
+    overflow: hidden;
+  }
+  
+.gif-margin {
+    margin-top: 50px;
+  }
+
+.Title{
+    font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+  }
+
+h1{
+font-family: "Great Vibes", cursive;
+        font-weight: 400;
+        font-style: normal;
+      
+}
