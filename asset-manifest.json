@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/huzefa897/Go-On-A-Date/static/css/main.66befd3b.css",
+    "main.js": "/huzefa897/Go-On-A-Date/static/js/main.00452c37.js",
+    "index.html": "/huzefa897/Go-On-A-Date/index.html",
+    "main.66befd3b.css.map": "/huzefa897/Go-On-A-Date/static/css/main.66befd3b.css.map",
+    "main.00452c37.js.map": "/huzefa897/Go-On-A-Date/static/js/main.00452c37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66befd3b.css",
+    "static/js/main.00452c37.js"
+  ]
+}
