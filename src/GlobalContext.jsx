@@ -9,7 +9,7 @@ export const GlobalProvider = ({ children }) => {
   const [hasInteracted, setHasInteracted] = useState(false);
 
   const backgroundImageUrl = "https://i.makeagif.com/media/1-19-2022/pS7gEY.gif";
-  const backgroundMusicUrl = "/bg-music.mp3";
+  const backgroundMusicUrl = "/Go-On-A-Date/bg-music.mp3";
 
   /**
    * Toggle Mute Function

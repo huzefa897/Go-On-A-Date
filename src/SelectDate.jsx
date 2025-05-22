@@ -73,11 +73,11 @@ const SelectDate = () => {
       ></div>
 
       {/* Content */}
-      <div className="flex flex-col items-center justify-center min-h-screen space-y-6 text-white">
-        <h1 className="text-5xl font-bold text-pink-500 animate-flash mb-4 ">
+      <div className="flex flex-col items-center justify-center min-h-screen px-4 py-8 text-white space-y-6">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-pink-500 animate-flash text-center ">
           Select a Date
         </h1>
-        <div className="bg-white bg-opacity-20 space-x-5">
+        <div className="bg-white bg-opacity-20 rounded-md p-4 w-full max-w-md flex flex-col space-y-4">
           <DatePicker
             label="Select a Date"
             value={selectedDate}
@@ -109,7 +109,7 @@ const SelectDate = () => {
             }}
             defaultValue={dayjs('2022-04-17T15:30')} />
         </div>
-        <Button onClick={handleSubmit}>Submit</Button>
+        <Button className="max-w-xs" onClick={handleSubmit}>Submit</Button>
         {/* Mute Status Display */}
         <div className="text-white mt-4">
           {isMuted ? "🔇 Audio is Muted (Press 'M' to Unmute)" : "🔊 Audio is Playing (Press 'M' to Mute)"}
