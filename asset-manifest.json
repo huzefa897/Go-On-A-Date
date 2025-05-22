@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Go-On-A-Date/static/css/main.66befd3b.css",
-    "main.js": "/Go-On-A-Date/static/js/main.ea636f58.js",
+    "main.css": "/Go-On-A-Date/static/css/main.dc49f7e2.css",
+    "main.js": "/Go-On-A-Date/static/js/main.1a05934a.js",
     "index.html": "/Go-On-A-Date/index.html",
-    "main.66befd3b.css.map": "/Go-On-A-Date/static/css/main.66befd3b.css.map",
-    "main.ea636f58.js.map": "/Go-On-A-Date/static/js/main.ea636f58.js.map"
+    "main.dc49f7e2.css.map": "/Go-On-A-Date/static/css/main.dc49f7e2.css.map",
+    "main.1a05934a.js.map": "/Go-On-A-Date/static/js/main.1a05934a.js.map"
   },
   "entrypoints": [
-    "static/css/main.66befd3b.css",
-    "static/js/main.ea636f58.js"
+    "static/css/main.dc49f7e2.css",
+    "static/js/main.1a05934a.js"
   ]
 }
