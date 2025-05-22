@@ -12,7 +12,7 @@ function App() {
    
    <LocalizationProvider dateAdapter={AdapterDayjs}>
     <GlobalProvider>
-    <BrowserRouter base="/Go-On-A-Date">
+    <BrowserRouter basename="/Go-On-A-Date">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/select-a-date" element={<SelectDate />} />
