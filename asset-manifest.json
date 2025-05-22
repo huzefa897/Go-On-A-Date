@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/huzefa897/Go-On-A-Date/static/css/main.66befd3b.css",
-    "main.js": "/huzefa897/Go-On-A-Date/static/js/main.36abaa3c.js",
-    "index.html": "/huzefa897/Go-On-A-Date/index.html",
-    "main.66befd3b.css.map": "/huzefa897/Go-On-A-Date/static/css/main.66befd3b.css.map",
-    "main.36abaa3c.js.map": "/huzefa897/Go-On-A-Date/static/js/main.36abaa3c.js.map"
+    "main.css": "/Go-On-A-Date/static/css/main.66befd3b.css",
+    "main.js": "/Go-On-A-Date/static/js/main.36abaa3c.js",
+    "index.html": "/Go-On-A-Date/index.html",
+    "main.66befd3b.css.map": "/Go-On-A-Date/static/css/main.66befd3b.css.map",
+    "main.36abaa3c.js.map": "/Go-On-A-Date/static/js/main.36abaa3c.js.map"
   },
   "entrypoints": [
     "static/css/main.66befd3b.css",
